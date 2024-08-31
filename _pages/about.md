@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-#About Me
+## About Me
+
 I am a first year PhD student at the Erasmus School of University.
 I am primarily interted in labour economics. The topics of my current projects are the science of science, gender and diversity, networks, and artificial intelligence.
 
