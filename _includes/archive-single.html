@@ -42,17 +42,17 @@
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.category == 'preprint' %}
           {% if post.collaborators %}
-              <p class="collaborators">Joint with {{ post.collaborators | markdownify }}</p>
+              <p class="collaborators">Joint with {{ post.collaborators }}</p>
           {% endif %}
           <p>Preprint, Latest Version: {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.category == 'progress' %}
           {% if post.collaborators %}
-            <p class="collaborators">Joint with {{ post.collaborators | markdownify }}</p>
+            <p class="collaborators">Joint with {{ post.collaborators }}</p>
           {% endif %}
           <p>Expected: {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
           {% if post.collaborators %}
-            <p class="collaborators">Joint with {{ post.collaborators | markdownify }}</p>
+            <p class="collaborators">Joint with {{ post.collaborators }}</p>
           {% endif %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
