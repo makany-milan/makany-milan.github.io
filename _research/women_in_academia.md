@@ -4,7 +4,7 @@ collection: research
 category: preprint
 permalink: /research/bagues_etal_women_in_academia
 excerpt: 'We study how the promotion of a female professor affects future hiring decisions and PhD students in the department.'
-date: 2024
+date: 2023-06-16
 venue: 
 slidesurl: 
 paperurl: 'https://warwick.ac.uk/fac/soc/economics/staff/gvattuone/bagues_et_al_2023.pdf'
