@@ -1,6 +1,6 @@
 ---
 title: "Women in Top Academic Positions: Is There a Trickle-down Effect?"
-collection: research
+collection: publications
 category: preprint
 permalink: /research/bagues_etal_women_in_academia
 excerpt: 'We study how the promotion of a female professor affects future hiring decisions and PhD students in the department.'
