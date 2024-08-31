@@ -3,6 +3,7 @@ title: "Women in Top Academic Positions: Is There a Trickle-down Effect?"
 collection: publications
 category: preprint
 permalink: /research/bagues_etal_women_in_academia
+collaborators: 'Manuel Bagues, Giulia Vattone, Natalia Zinovyeva'
 excerpt: 'We study how the promotion of a female professor affects future hiring decisions and PhD students in the department.'
 date: 2023-06-16
 venue: 
