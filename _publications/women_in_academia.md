@@ -9,7 +9,8 @@ date: 2023-06-16
 venue: 
 slidesurl: 
 paperurl: 'https://warwick.ac.uk/fac/soc/economics/staff/gvattuone/bagues_et_al_2023.pdf'
-citation: 'Bagues, M., G. Vattuone, M. Makany, and N. Zinovyeva. (2023): “Women in Top Academic Positions: Is There a Trickle-down Effect?”'
+citation: Bagues, M., Vattuone, G., Makany, M., & Zinovyeva, N. (2023). Women in Top Academic Positions: Is There a Trickle-down Effect?
+
 ---
 
 [Download Latest Version Here](https://warwick.ac.uk/fac/soc/economics/staff/gvattuone/bagues_et_al_2023.pdf)
@@ -20,4 +21,4 @@ We study how the promotion of a female professor affects future hiring decisions
 
 # Citation 
 
-Bagues, M., G. Vattuone, M. Makany, and N. Zinovyeva. (2023): “Women in Top Academic Positions: Is There a Trickle-down Effect?,”
+Bagues, M., Vattuone, G., Makany, M., & Zinovyeva, N. (2023). Women in Top Academic Positions: Is There a Trickle-down Effect?
