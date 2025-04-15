@@ -1,5 +1,5 @@
 ---
-title: "Diversity in leadership positions and diversity, equity, and inclusion policies in Dutch firms"
+title: "Diversity, equity, and inclusion policies in Dutch firms"
 collection: publications
 category: progress
 permalink: /research/boring_delfgaauw_makany_dei
