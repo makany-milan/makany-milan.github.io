@@ -9,8 +9,11 @@ date: 2024-09-01
 venue: 
 slidesurl: 
 paperurl:
-citation: #'M. Makany. (2024): “Connections in Academia: Can Networking Opportunities Help Women?”'
+citation: #'Makany M. (2025): “Connections in Academia: Can Networking Opportunities Help Women?”'
 ---
+
+# Presentations
+ - 2025: WOEPS 
 
 # Abstract
 
