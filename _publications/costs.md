@@ -5,7 +5,7 @@ category: progress
 permalink: /research/makany_zinovyeva_gatekeepers
 collaborators: 'Natalia Zinovyeva'
 excerpt: 'This paper anlyses whether better researchers set different incentive structures in science and the costs associated with gatekeeping.'
-date: 2025
+date: 2025-01-01
 venue: 
 slidesurl: 
 paperurl:
