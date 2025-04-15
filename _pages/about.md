@@ -9,7 +9,8 @@ redirect_from:
 
 ## About Me
 
-I am a first year PhD student at the Erasmus School of Economics.
-I am primarily interested in labour economics. The topics of my current projects are the science of science, gender and diversity, networks, and artificial intelligence.
+I am a first year PhD student at the Erasmus School of Economics. 
+My current projects are on diversity in science, networks, and firms.
+
 
 My advisors are Anne Boring and Josse Delfgaauw.

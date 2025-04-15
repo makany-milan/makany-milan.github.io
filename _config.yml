@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Milan Makany"
 title_separator          : "-"
 name                     : &name "Milan Makany"
-description              : &description "PhD Student at Erasmus School of Economics"
+description              : &description "PhD Candidate at Erasmus School of Economics"
 url                      : https://makany-milan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "makany-milan.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Milan Makany"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Erasmus School of Economics"
+  bio              : "PhD Candidate at Erasmus School of Economics"
   location         : "Rotterdam, Netherlands"
   employer         : #url
   uri              : # URL

@@ -14,5 +14,5 @@ redirect_from:
 Education
 ======
 * PhD in Economics, Erasmus School of Economics, 2029 (expected)
-* MSc in Economics, University of Warwick, 2024 (expected)
+* MSc in Economics, University of Warwick, 2024
 * BSc in Economics, University of Warwick, 2023
