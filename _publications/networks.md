@@ -13,7 +13,7 @@ citation: #'Makany M. (2025): “Connections in Academia: Can Networking Opportu
 ---
 
 # Presentations
- - 2025: WOEPS, University of Strasbourg
+ - 2025: WOEPS, University of Strasbourg; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven
 
 # Abstract
 
@@ -21,4 +21,4 @@ Female researchers, on average, publish fewer articles and in journals of lower 
 
 # Citation 
 
-Not circulated yet.
+Not circulated.
