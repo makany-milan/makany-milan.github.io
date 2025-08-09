@@ -19,4 +19,5 @@ Education
 
 Presentations
 ======
-* 2025: WOEPS, University of Strasbourg
+* 2024: TI Network Economics Day, Tinbergen Institute
+* 2025: WOEPS, University of Strasbourg; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven
