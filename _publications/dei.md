@@ -5,7 +5,7 @@ category: progress
 permalink: /research/boring_delfgaauw_makany_dei
 collaborators: 'Anne Boring, Josse Delfgaauw'
 excerpt: ''
-date: 2025-01-01
+date: 2026-06-01
 venue: 
 slidesurl: 
 paperurl:

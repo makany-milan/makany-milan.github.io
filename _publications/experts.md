@@ -5,7 +5,7 @@ category: progress
 permalink: /research/makany_zinovyeva_gatekeepers
 collaborators: 'Natalia Zinovyeva'
 excerpt: 'We study how the presence of experts affects decision-making in committees. Experts apply stricter standards, emphasize research quality over quantity, and influence peers to adopt similar criteria. They also select candidates who are more productive over the following decade and more likely to earn subsequent promotions. '
-date: 2025-01-01
+date: 2025-11-01
 venue: 
 slidesurl: 
 paperurl:

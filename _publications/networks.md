@@ -5,7 +5,7 @@ category: progress
 permalink: /research/makany_networks
 collaborators:
 excerpt: 'I analyse whether women have a different propensity to form new collaborations, exploiting a large scale natural experiment across all disciplines in Italian academia.'
-date: 2025-04-03
+date: 2026-06-01
 venue:
 slidesurl: 
 paperurl:
