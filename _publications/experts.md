@@ -13,7 +13,7 @@ citation: #'Makany M., N. Zinoyveva. (2025): "Experts on Scientific Committees"'
 ---
 
 # Presentations
- - 2025: UK Department for Education
+ - 2025: Brown Bag Seminar, Erasmus School of Economics; UK Department for Education
 
 # Abstract
 

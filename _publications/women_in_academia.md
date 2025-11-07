@@ -18,7 +18,7 @@ citation: 'Bagues, M., G. Vattuone, M. Makany, and N. Zinovyeva. (2023): “Wome
 -->
 
 # Presentations
- - 2025: Erasmus University Rotterdam; Tinbergen Institute
+ - 2025: Erasmus School of Economics; Tinbergen Institute
 
 
 # Abstract
