@@ -12,6 +12,9 @@ paperurl:
 citation: #'Makany M., N. Zinoyveva. (2025): "Experts on Scientific Committees"'
 ---
 
+# Presentations
+ - 2025: UK Department for Education
+
 # Abstract
 
 We study how the presence of experts affects decision-making in committees. Leveraging ad-
