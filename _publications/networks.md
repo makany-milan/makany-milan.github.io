@@ -1,10 +1,10 @@
 ---
-title: "Connections in Academia: Can Networking Opportunities Help Women?"
+title: "Connections in Academia: Are there gender differences in networking?"
 collection: publications
 category: progress
 permalink: /research/makany_networks
 collaborators:
-excerpt: 'I analyse whether women have a different propensity to form new collaborations, exploiting a large scale natural experiment across all disciplines in Italian academia.'
+excerpt: 'I show that female researchers do not have a different propensity to form new collaborations, exploiting a large scale natural experiment across all disciplines in Italian academia. My results suggest that gender differences in observational data do not stem from discrimination by men or differences in networking ability.'
 date: 2026-06-01
 venue:
 slidesurl: 
@@ -13,12 +13,12 @@ citation: #'Makany M. (2025): “Connections in Academia: Can Networking Opportu
 ---
 
 # Presentations
- - 2024: TI Network Economics Day, Tinbergen Institute
- - 2025: WOEPS, University of Strasbourg; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven
+ - 2024: Network Economics Day, Tinbergen Institute
+ - 2025: WOEPS, University of Strasbourg; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven; Vrije Universiteit Amsterdam; PhD Seminar, Tinbergen Institute
 
 # Abstract
 
-Female researchers, on average, publish fewer articles and in journals of lower impact compared to men. A potential contributing factor is that women have smaller professional networks, potentially due to the lack of networking opportunities. Descriptive statistics indicate that women have fewer collaborators and are less central within their networks. This paper analyses whether women have a different propensity to form new connections, exploiting a large scale natural experiment across all disciplines in Italian academia. I exploit exogenous variation in the networking opportunities available to Professors, stemming from some pairs of researchers randomly being drawn to sit on the same committee, while other pairs are not. I find that researchers who sit on the same committee are more likely to collaborate on future projects, with new joint publications getting published as soon as 3 years after the initial shock. I find no gender differences in the propensity to form new co-authorships.
+ Female researchers, on average, publish fewer articles than men. This may partly be due to differences in collaboration networks. I study gender differences in the formation of new collaborations using a large-scale natural experiment, where researchers are randomly assigned to serve together on Italian national evaluation committees. Pairs who sit on the same committee are 44\% more likely to collaborate in the subsequent eight years compared to other potential pairs who were not drawn together. Despite pronounced gender differences and homophily in observational data, I find no gender differences in the likelihood of forming new collaborations and no same-sex preference when researchers meet at random. These results suggest that observed gender differences in collaboration patterns likely do not reflect taste-based discrimination or differential networking ability.
 
 # Citation 
 

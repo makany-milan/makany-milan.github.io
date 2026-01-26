@@ -17,6 +17,10 @@ citation: 'Bagues, M., G. Vattuone, M. Makany, and N. Zinovyeva. (2023): “Wome
 [Download Latest Version Here](https://warwick.ac.uk/fac/soc/economics/staff/gvattuone/bagues_et_al_2023.pdf)
 -->
 
+# Presentations
+ - 2025: PhD Seminar, Erasmus School of Economics; PhD Seminar, Tinbergen Institute
+
+
 # Abstract
 
-We study how the promotion of a female Associate Professor affects future hiring and PhD cohorts. Exploiting a natural experiment in Spain from 2003 to 2007, we use random variation in promotion outcomes. We find that promoting a woman increases the number of female PhD graduates and their retention in academia, but has limited effects on female faculty hiring. Promoting a researcher in fields aligned to women's research interests, regardless of gender, is equally effective in attracting future female faculty. This suggests that targeting research orientation may be an alternative to gender-based hiring policies, with potentially lower search costs.
+We study how the promotion of female faculty affects future hiring and PhD cohorts, using data from around 4,000 Spanish university departments across all disciplines. We identify exogenous variation in promotions by exploiting the random assignment of evaluators to promotion committees from 2002 to 2008, where applicants with close connections among their evaluators have significantly better success rates. Exogenously promoting a woman to Associate Professor increases female faculty by 1.5 members after 15 years and leads to six additional female PhD graduates at the department. It also improves academic retention and success of junior female researchers. Promoting researchers, of any gender, in female-dominated fields generates similar but smaller effects, suggesting that while research alignment matters, gender itself plays an independent role. These results suggest that advancing women at key career stages can generate lasting, cumulative gains throughout the academic pipeline.
