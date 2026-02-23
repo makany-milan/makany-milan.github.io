@@ -8,7 +8,7 @@ excerpt: 'We study how the promotion of a female professor affects future hiring
 date: 2026-01-01
 venue: 
 slidesurl: 
-paperurl: 'https://warwick.ac.uk/fac/soc/economics/staff/gvattuone/bagues_et_al_2023.pdf'
+paperurl: 
 citation: 'Bagues, M., G. Vattuone, M. Makany, and N. Zinovyeva. (2023): “Women in Top Academic Positions: Is There a Trickle-down Effect?,”'
 
 ---
