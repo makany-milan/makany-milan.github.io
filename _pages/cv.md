@@ -20,4 +20,5 @@ Education
 Presentations
 ======
 * 2024: TI Network Economics Day, Tinbergen Institute
-* 2025: WOEPS, University of Strasbourg; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven; Vrije Universiteit Amsterdam
+* 2025: The Organisation, Economics and Policy of Scientific Research, University of Strasbourg and Bureau d’Économie Théorique et Appliquée (BETA); PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven; Vrije Universiteit Amsterdam; PhD Seminar, Tinbergen Institute
+* 2026: Research on Monday Seminar, Erasmus School of Economics; The Organisation, Economics and Policy of Scientific Research, Politecnico di Milano; Tinbergen Institute Opening Conference: Science for Society
