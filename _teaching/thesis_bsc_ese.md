@@ -14,6 +14,10 @@ toc_sticky: true
 This page provides practical information for bachelor thesis students, including how to communicate, how to book meetings, and which resources are available throughout the thesis process.
 It is intended as a reference you can return to at any stage of your project.
 
+## Slides from joint sessions
+[Session 1: General Information](https://makany-milan.github.io/files/Bachelor_Thesis_Session1.pdf)
+
+
 ## Communication
 
 For thesis-related communication, please use **TMS**.
