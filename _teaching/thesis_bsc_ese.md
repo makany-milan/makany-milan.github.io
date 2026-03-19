@@ -1,17 +1,15 @@
 ---
 permalink: /bachelor-thesis-info/
 title: "Bachelor Thesis Information"
-author_profile: true
+permalink: /teaching/bachelor-thesis/
+venue: "Erasmus School of Economics"
+date: 2026-03-19
+location: "Rotterdam, Netherlands"
 ---
 
 ## Bachelor Thesis Information
 
 This page contains practical information for bachelor thesis students, including how to ask questions, how to book meetings, and which resources are available.
-
-## Quick links
-
-- [Session 1: General Information](/teaching/bachelor-thesis-session-1/)
-- [Book a 1:1 meeting](https://outlook.office.com/bookwithme/user/f73b23f3cfc644cd9f35eb2271154242@eur.nl/meetingtype/go5N6Cl_D06bBRZvB3ynsQ2?anonymous&ismsaljsauthenabled&ep=mlink)
 
 ## Communication
 
