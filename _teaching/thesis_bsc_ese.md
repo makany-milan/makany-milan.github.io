@@ -1,15 +1,15 @@
 ---
-permalink: /bachelor-thesis-info/
 title: "Bachelor Thesis Information"
-permalink: /teaching/bachelor-thesis/
+collection: teaching
+type: "Supervision"
 venue: "Erasmus School of Economics"
-date: 2026-03-19
 location: "Rotterdam, Netherlands"
+date: 2026-03-19
+permalink: /teaching/bachelor-thesis-info/
 ---
 
-## Bachelor Thesis Information
-
-This page contains practical information for bachelor thesis students, including how to ask questions, how to book meetings, and which resources are available.
+This page provides practical information for bachelor thesis students, including how to communicate, how to book meetings, and which resources are available throughout the thesis process.
+It is intended as a reference you can return to at any stage of your project.
 
 ## Communication
 
