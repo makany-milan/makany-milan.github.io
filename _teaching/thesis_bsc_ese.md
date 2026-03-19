@@ -6,6 +6,9 @@ venue: "Erasmus School of Economics"
 location: "Rotterdam, Netherlands"
 date: 2026-03-19
 permalink: /teaching/bachelor-thesis-info/
+author_profile: false
+toc: true
+toc_sticky: true
 ---
 
 This page provides practical information for bachelor thesis students, including how to communicate, how to book meetings, and which resources are available throughout the thesis process.
