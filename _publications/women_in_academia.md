@@ -1,25 +1,24 @@
 ---
-title: "Women in Top Academic Positions: Is There a Trickle-down Effect?"
+title: "Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment"
 collection: publications
 category: progress
 permalink: /research/bagues_etal_women_in_academia
 collaborators: 'Manuel Bagues, Giulia Vattone, Natalia Zinovyeva'
 excerpt: 'We study how the promotion of a female professor affects future hiring decisions and PhD students in the department.'
-date: 2026-01-01
+date: 2026-03-16
 venue: 
 slidesurl: 
-paperurl: 
-citation: 'Bagues, M., G. Vattuone, M. Makany, and N. Zinovyeva. (2023): “Women in Top Academic Positions: Is There a Trickle-down Effect?,”'
+paperurl: https://makany-milan.github.io/files/Women_in_Academia_16_3_2026.pdf
+citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female promotions and the academic pipeline: Evidence from a natural experiment.” Working paper. Available at https://manuelbagues.com/Women_in_Academia_16_3_2026.pdf'
 
 ---
 
-<!---
-[Download Latest Version Here](https://warwick.ac.uk/fac/soc/economics/staff/gvattuone/bagues_et_al_2023.pdf)
--->
+[Download Latest Version Here](https://makany-milan.github.io/files/Women_in_Academia_16_3_2026.pdf)
 
 # Presentations
+ - 2026: Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society
  - 2025: PhD Seminar, Erasmus School of Economics; PhD Seminar, Tinbergen Institute
 
 # Abstract
 
-We study how the promotion of female faculty affects future hiring and PhD cohorts, using data from around 4,000 Spanish university departments across all disciplines. We identify exogenous variation in promotions by exploiting the random assignment of evaluators to promotion committees from 2002 to 2008, where applicants with close connections among their evaluators have significantly better success rates. Exogenously promoting a woman to Associate Professor increases female faculty by 1.5 members after 15 years and leads to six additional female PhD graduates at the department. It also improves academic retention and success of junior female researchers. Promoting researchers, of any gender, in female-dominated fields generates similar but smaller effects, suggesting that while research alignment matters, gender itself plays an independent role. These results suggest that advancing women at key career stages can generate lasting, cumulative gains throughout the academic pipeline.
+We study how faculty promotion decisions shape women’s careers and the academic pipeline, using data from 4,000 Spanish university departments across all disciplines. We identify exogenous variation in promotions using the random assignment of evaluators to promotion committees between 2002 and 2008: applicants whose committees included a co-author or colleague were significantly more likely to qualify for promotion. We document two main findings. First, failing to obtain tenure has asymmetrically lasting consequences for women. Those who narrowly miss tenure are 57 percentage points less likely to be tenured fifteen years later, compared to 29 percentage points for men. Second, when women do obtain tenure, the effects extend well beyond their own careers: promoting a woman to Associate Professor increases female faculty by 1.5 members after 15 years, leads to six additional female PhD graduates over the following decade, and raises the number who subsequently remain in academia and reach tenured positions.
