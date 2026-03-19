@@ -1,7 +1,7 @@
 ---
 title: "Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment"
 collection: publications
-category: progress
+category: preprint
 permalink: /research/bagues_etal_women_in_academia
 collaborators: 'Manuel Bagues, Giulia Vattone, Natalia Zinovyeva'
 excerpt: 'We study how the promotion of a female professor affects future hiring decisions and PhD students in the department.'
