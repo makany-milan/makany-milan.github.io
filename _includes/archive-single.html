@@ -44,7 +44,7 @@
           {% if post.collaborators %}
               <p class="collaborators">Joint with {{ post.collaborators }}</p>
           {% endif %}
-          <p>Preprint, Latest Version: {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Working Paper, Latest Version: {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.category == 'progress' %}
           {% if post.collaborators %}
             <p class="collaborators">Joint with {{ post.collaborators }}</p>
