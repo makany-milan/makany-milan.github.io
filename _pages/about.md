@@ -9,12 +9,11 @@ redirect_from:
 
 ## About Me
 
-I am a second year PhD candidate at the Erasmus School of Economics. 
-My current projects are on diversity in science, networks, and skills.
-
+I am a second-year PhD candidate in economics at the Erasmus School of Economics, working in labor economics. 
+My research focuses on gender, diversity, networks, and the economics of science. 
+I serve as the tutorial coordinator for the MSc course in Applied Econometrics and co-organize the Health and Labor seminar and the PhD seminar series.
 
 My advisors are Anne Boring and Josse Delfgaauw.
 
 ## Upcoming Presentations
-- March 2026: The Organisation, Economics and Policy of Scientific Research, Politecnico di Milano
 - April 2026: Tinbergen Institute Opening Conference: Science for Society
