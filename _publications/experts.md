@@ -9,7 +9,7 @@ date: 2025-11-01
 venue: 
 slidesurl: 
 paperurl: https://makany-milan.github.io/files/Top_Researchers_on_Committees_21_1_2026.pdf
-citation: 'Makany M. and N. Zinoyveva (2026), "Top Researchers on Scientific Committees: Decision Outcomes, Peer Dynamics, and Opportunity Costs", https://makany-milan.github.io/files/Top_Researchers_on_Committees_21_1_2026.pdf'
+citation: 'Makany, M., and N. Zinovyeva (2026): “Top Researchers on Scientific Committees: Decision Outcomes, Peer Dynamics, and Opportunity Costs”. https://makany-milan.github.io/files/Top_Researchers_on_Committees_21_1_2026.pdf'
 ---
 
 # Awards

@@ -9,7 +9,7 @@ date: 2026-03-16
 venue: 
 slidesurl: 
 paperurl: https://makany-milan.github.io/files/Women_in_Academia_16_3_2026.pdf
-citation: 'Bagues, M, M Makany, G Vattuone and N Zinovyeva (2026), ‘DP21325 Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment‘, CEPR Discussion Paper No. 21325. CEPR Press, Paris & London. https://cepr.org/publications/dp21325'
+citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment”. CEPR Discussion Paper No. 21325. https://cepr.org/publications/dp21325'
 
 ---
 
