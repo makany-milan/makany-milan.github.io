@@ -28,11 +28,17 @@ author_profile: true
         {% endif %}
 
         {% if post.date %}
-          <p>{{ post.date | date: "%Y" }}</p>
+          {% if post.category == 'preprint' %}
+            <p>Most recent draft: {{ post.date | date: "%B %Y" }}</p>
+          {% elsif post.category == 'progress' %}
+            <p>Expected: {{ post.date | date: "%Y" }}</p>
+          {% elsif post.category == 'published' %}
+            <p>{{ post.date | date: "%Y" }}</p>
+          {% endif %}
         {% endif %}
 
-        {% if post.excerpt %}
-          <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        {% if post.collaborators %}
+              <p class="collaborators">Joint with {{ post.collaborators }}</p>
         {% endif %}
 
         <p>
@@ -43,12 +49,28 @@ author_profile: true
           {% if post.slidesurl %}
             <a href="{{ post.slidesurl }}" class="btn btn--inverse">Slides</a>
           {% endif %}
-
-          {% if post.codeurl %}
-            <a href="{{ post.codeurl }}" class="btn btn--inverse">Code</a>
-          {% endif %}
         </p>
+
+        {% if post.excerpt %}
+          <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        {% endif %}
       </div>
+
+      <h3>Presentations</h3>
+
+      <ul>
+      {% for post in site.talks reversed %}
+        <li>
+          <strong>{{ post.title }}</strong>,
+          {{ post.venue }},
+          {{ post.date | date: "%B %Y" }}
+          
+          {% if post.slidesurl %}
+            — <a href="{{ post.slidesurl }}">Slides</a>
+          {% endif %}
+        </li>
+      {% endfor %}
+      </ul>
 
       <hr />
     {% endfor %}
