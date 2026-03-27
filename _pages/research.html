@@ -42,18 +42,12 @@ author_profile: true
             <a href="{{ post.paperurl }}" class="btn btn--primary" style="margin-left: 10px;">PDF</a>
           {% endif %}
 
-          {% if post.ceprurl or post.izaurl %}
-            <span style="margin-left: 8px;">
-              (
-              {% if post.ceprurl %}
-                <a href="{{ post.ceprurl }}">CEPR</a>
-              {% endif %}
-              {% if post.ceprurl and post.izaurl %}, {% endif %}
-              {% if post.izaurl %}
-                <a href="{{ post.izaurl }}">IZA</a>
-              {% endif %}
-              )
-            </span>
+          {% if post.ceprurl %}
+            <a href="{{ post.ceprurl }}" class="btn btn--inverse">CEPR</a>
+          {% endif %}
+
+          {% if post.izaurl %}
+            <a href="{{ post.izaurl }}" class="btn btn--inverse">IZA</a>
           {% endif %}
         </p>
 
