@@ -14,12 +14,6 @@ talks:
   - year: 2024
     venue: "Network Economics Day, Tinbergen Institute"
   - year: 2025
-    venue: "Workshop on the Organisation, Economics and Policy of Scientific Research, University of Strasbourg"
-  - year: 2025
-    venue: "PhD Seminar, Erasmus School of Economics"
-  - year: 2025
-    venue: "10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven"
-  - year: 2025
-    venue: "Vrije Universiteit Amsterdam"
+    venue: "Vrije Universiteit Amsterdam; Workshop on the Organisation, Economics and Policy of Scientific Research, University of Strasbourg; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven; PhD Seminar, Erasmus School of Economics"
 ---
 

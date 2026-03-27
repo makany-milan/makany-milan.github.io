@@ -15,9 +15,5 @@ talks:
   - year: 2026
     venue: "Workshop on the Organisation, Economics and Policy of Scientific Research, Politecnico di Milano"
   - year: 2025
-    venue: "Brown Bag Seminar, Erasmus School of Economics"
-  - year: 2025
-    venue: "UK Department for Education"
-  - year: 2025
-    venue: "PhD Seminar, Erasmus School of Economics"
+    venue: "UK Department for Education; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics"
 ---

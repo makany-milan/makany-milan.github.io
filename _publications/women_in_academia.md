@@ -12,11 +12,7 @@ paperurl: https://makany-milan.github.io/files/Women_in_Academia_16_3_2026.pdf
 citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment”. CEPR Discussion Paper No. 21325. https://cepr.org/publications/dp21325'
 talks:
   - year: 2026
-    venue: "Research on Monday, Erasmus School of Economics"
-  - year: 2026
-    venue: "Tinbergen Institute Opening Conference: Science for Society"
+    venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society"
   - year: 2025
-    venue: "PhD Seminar, Erasmus School of Economics"
-  - year: 2025
-    venue: "PhD Seminar, Tinbergen Institute"
+    venue: "PhD Seminar, Erasmus School of Economics; PhD Seminar, Tinbergen Institute"
 ---
