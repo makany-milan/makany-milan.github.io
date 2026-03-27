@@ -3,7 +3,7 @@ title: "Female Promotions and the Academic Pipeline: Evidence from a Natural Exp
 collection: publications
 category: preprint
 permalink: /research/bagues_etal_women_in_academia
-collaborators: 'Manuel Bagues, Giulia Vattone, Natalia Zinovyeva'
+collaborators: 'Manuel Bagues, Giulia Vattuone, Natalia Zinovyeva'
 excerpt: 'We study how faculty promotion decisions shape women’s careers and the academic pipeline, using data from 4,000 Spanish university departments across all disciplines. We identify exogenous variation in promotions using the random assignment of evaluators to promotion committees between 2002 and 2008: applicants whose committees included a co-author or colleague were significantly more likely to qualify for promotion. We document two main findings. First, failing to obtain tenure has asymmetrically lasting consequences for women. Those who narrowly miss tenure are 57 percentage points less likely to be tenured fifteen years later, compared to 29 percentage points for men. Second, when women do obtain tenure, the effects extend well beyond their own careers: promoting a woman to Associate Professor increases female faculty by 1.5 members after 15 years, leads to six additional female PhD graduates over the following decade, and raises the number who subsequently remain in academia and reach tenured positions.'
 date: 2026-03-16
 venue: 
