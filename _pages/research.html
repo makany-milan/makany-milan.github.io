@@ -16,40 +16,42 @@ author_profile: true
       {% endif %}
 
       {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
 
       <div class="archive__item">
         <h3 class="archive__item-title">{{ post.title }}</h3>
 
-        {% if post.venue %}
-          <p><strong>{{ post.venue }}</strong></p>
-        {% endif %}
-
-        {% if post.date %}
-          {% if post.category == 'preprint' %}
-            <p>Most recent draft: {{ post.date | date: "%B %Y" }}</p>
-          {% elsif post.category == 'progress' %}
-            <p>Expected: {{ post.date | date: "%Y" }}</p>
-          {% elsif post.category == 'published' %}
-            <p>{{ post.date | date: "%Y" }}</p>
-          {% endif %}
-        {% endif %}
-
         {% if post.collaborators %}
               <p class="collaborators">Joint with {{ post.collaborators }}</p>
         {% endif %}
 
-        <p>
+        <p class="archive__item-meta">
+          {% if post.date %}
+            {% if post.category == 'preprint' %}
+              Most recent draft: {{ post.date | date: "%B %Y" }}
+            {% elsif post.category == 'progress' %}
+              Expected: {{ post.date | date: "%Y" }}
+            {% elsif post.category == 'published' %}
+              {{ post.date | date: "%Y" }}
+            {% endif %}
+          {% endif %}
+
           {% if post.paperurl %}
-            <a href="{{ post.paperurl }}" class="btn btn--primary">PDF</a>
+            <a href="{{ post.paperurl }}" class="btn btn--primary" style="margin-left: 10px;">PDF</a>
           {% endif %}
 
           {% if post.slidesurl %}
-            <a href="{{ post.slidesurl }}" class="btn btn--inverse">Slides</a>
+            <a href="{{ post.slidesurl }}" class="btn btn--inverse" style="margin-left: 5px;">Slides</a>
           {% endif %}
         </p>
+
+        {% if post.award %}
+          <p class="archive__item-award">
+            <strong>{{ post.award }}</strong>,
+          </p>
+        {% endif %}
 
         {% if post.excerpt %}
           <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
@@ -58,19 +60,17 @@ author_profile: true
 
       <h3>Presentations</h3>
 
-      <ul>
-      {% for post in site.talks reversed %}
-        <li>
-          <strong>{{ post.title }}</strong>,
-          {{ post.venue }},
-          {{ post.date | date: "%B %Y" }}
-          
-          {% if post.slidesurl %}
-            — <a href="{{ post.slidesurl }}">Slides</a>
-          {% endif %}
-        </li>
-      {% endfor %}
-      </ul>
+      {% if post.talks and post.talks.size > 0 %}
+        <p class="archive__item-presentations">
+          <strong>Presentations:</strong>
+        </p>
+        <ul class="archive__item-presentations-list">
+          {% assign talks_by_year = post.talks | sort: "year" | reverse %}
+          {% for talk in talks_by_year %}
+            <li>{{ talk.year }} — {{ talk.venue }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
 
       <hr />
     {% endfor %}

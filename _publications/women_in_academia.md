@@ -19,5 +19,4 @@ talks:
     venue: "PhD Seminar, Erasmus School of Economics"
   - year: 2025
     venue: "PhD Seminar, Tinbergen Institute"
-
 ---
