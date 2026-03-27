@@ -15,8 +15,7 @@ citation: 'Makany, M., and N. Zinovyeva (2026): “Top Researchers on Scientific
 [Download Latest Version Here](https://makany-milan.github.io/files/Top_Researchers_on_Committees_21_1_2026.pdf)
 
 
-# Awards
-- Paul David Best Junior Paper Award (Workshop on the Organisation, Economics and Policy of Scientific Research, 2026)
+## Paul David Best Junior Paper Award (Workshop on the Organisation, Economics and Policy of Scientific Research, 2026)
 
 # Presentations
  - 2026: Workshop on the Organisation, Economics and Policy of Scientific Research, Politecnico di Milano
