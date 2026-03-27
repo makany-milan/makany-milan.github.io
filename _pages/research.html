@@ -30,20 +30,16 @@ author_profile: true
         <p class="archive__item-meta">
           {% if post.date %}
             {% if post.category == 'preprint' %}
-              Most recent draft: {{ post.date | date: "%B %Y" }}
+              <span class="archive__item-date">Most recent draft: {{ post.date | date: "%B %Y" }}</span>
             {% elsif post.category == 'progress' %}
-              Expected: {{ post.date | date: "%Y" }}
+              <span class="archive__item-date">Expected: {{ post.date | date: "%Y" }}</span>
             {% elsif post.category == 'published' %}
-              {{ post.date | date: "%Y" }}
+              <span class="archive__item-date">{{ post.date | date: "%Y" }}</span>
             {% endif %}
           {% endif %}
 
           {% if post.paperurl %}
             <a href="{{ post.paperurl }}" class="btn btn--primary" style="margin-left: 10px;">PDF</a>
-          {% endif %}
-
-          {% if post.slidesurl %}
-            <a href="{{ post.slidesurl }}" class="btn btn--inverse" style="margin-left: 5px;">Slides</a>
           {% endif %}
         </p>
 
@@ -53,10 +49,10 @@ author_profile: true
           </p>
         {% endif %}
 
+        
         {% if post.excerpt %}
           <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
         {% endif %}
-      </div>
 
       {% if post.talks and post.talks.size > 0 %}
         <p class="archive__item-presentations">
@@ -70,6 +66,8 @@ author_profile: true
         </ul>
       {% endif %}
 
+
+      </div>
       <hr />
     {% endfor %}
   {% endfor %}
