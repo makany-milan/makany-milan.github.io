@@ -12,6 +12,7 @@ paperurl: https://makany-milan.github.io/files/Women_in_Academia_16_3_2026.pdf
 ceprurl: https://cepr.org/publications/dp21325
 rfberlinurl: https://www.rfberlin.com/network-paper/female-promotions-and-the-academic-pipeline-evidence-from-a-natural-experiment/
 citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment”. CEPR Discussion Paper No. 21325. https://cepr.org/publications/dp21325'
+izaurl: https://www.iza.org/publications/dp/18477/female-promotions-and-the-academic-pipeline-evidence-from-a-natural-experiment
 talks:
   - year: 2026
     venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society"
