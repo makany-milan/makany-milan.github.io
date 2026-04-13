@@ -16,4 +16,5 @@ I serve as the tutorial coordinator for the MSc course in Applied Econometrics a
 My advisors are Anne Boring and Josse Delfgaauw.
 
 ## Upcoming Presentations
-- April 2026: Tinbergen Institute Opening Conference: Science for Society
+- June 2026: 4th Diversity and Human Capital Workshop, University of Exeter
+- August 2026: EALE
