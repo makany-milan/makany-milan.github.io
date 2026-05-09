@@ -18,4 +18,5 @@ My advisors are Anne Boring and Josse Delfgaauw.
 ## Upcoming Presentations
 - May 2026: KTI-KRTK, Budapest
 - June 2026: 4th Diversity and Human Capital Workshop, University of Exeter
+- July 2026: NBER SI 2026 Science of Science Funding
 - August 2026: EALE, Barcelona
