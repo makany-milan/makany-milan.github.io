@@ -27,41 +27,90 @@ author_profile: true
               <p class="collaborators">Joint with {{ post.collaborators }}</p>
         {% endif %}
 
-        <p class="archive__item-meta">
-          {% if post.date %}
-            {% if post.category == 'preprint' %}
-              <span class="archive__item-date">Most recent draft: <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary" style="margin-left: 10px;">{{ post.date | date: "%B %Y" }}</a></span>
-            {% elsif post.category == 'progress' %}
-              <span class="archive__item-date">Expected: {{ post.date | date: "%Y" }}</span>
-            {% elsif post.category == 'published' %}
-              <span class="archive__item-date">{{ post.date | date: "%Y" }}</span>
-            {% endif %}
-          {% endif %}
-        </p>
-        
-        <p class="archive__item-meta">
-          {% if post.ceprurl or post.izaurl or post.rfberlinurl %}
-            <strong>Discussion Papers:</strong>
-          {% endif %}
 
-          {% if post.ceprurl %}
-            <a href="{{ post.ceprurl }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">CEPR</a>
-          {% endif %}
+      <div class="archive__item-links">
+        {% if post.date %}
+          {% if post.category == 'preprint' %}
+            <div class="archive__item-link-row">
+              <span class="archive__item-link-label">Most recent draft:</span>
 
-          {% if post.izaurl %}
-            <a href="{{ post.izaurl }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">IZA</a>
+              {% if post.paperurl %}
+                <a href="{{ post.paperurl }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn--primary archive__item-link-btn">
+                  {{ post.date | date: "%B %Y" }}
+                </a>
+              {% else %}
+                <span>{{ post.date | date: "%B %Y" }}</span>
+              {% endif %}
+            </div>
+          {% elsif post.category == 'progress' %}
+            <div class="archive__item-link-row">
+              <span class="archive__item-link-label">Expected:</span>
+              <span>{{ post.date | date: "%Y" }}</span>
+            </div>
+          {% elsif post.category == 'published' %}
+            <div class="archive__item-link-row">
+              <span class="archive__item-link-label">Published:</span>
+              <span>{{ post.date | date: "%Y" }}</span>
+            </div>
           {% endif %}
-
-          {% if post.rfberlinurl %}
-            <a href="{{ post.rfberlinurl }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">RFBerlin</a>
-          {% endif %}
-        </p>
-
-        {% if post.blogs and post.blogs.size > 0 %} 
-          <p class="archive__item-blogs"> 
-            <strong>Blogs:</strong> {% for blog in post.blogs %} <a href="{{ blog.url }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">{{ blog.title }}</a> {% endfor %} 
-          </p> 
         {% endif %}
+
+        {% if post.ceprurl or post.izaurl or post.rfberlinurl %}
+          <div class="archive__item-link-row">
+            <span class="archive__item-link-label">Discussion papers:</span>
+
+            <div class="archive__item-link-buttons">
+              {% if post.ceprurl %}
+                <a href="{{ post.ceprurl }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn--primary archive__item-link-btn">
+                  CEPR
+                </a>
+              {% endif %}
+
+              {% if post.izaurl %}
+                <a href="{{ post.izaurl }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn--primary archive__item-link-btn">
+                  IZA
+                </a>
+              {% endif %}
+
+              {% if post.rfberlinurl %}
+                <a href="{{ post.rfberlinurl }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn--primary archive__item-link-btn">
+                  RFBerlin
+                </a>
+              {% endif %}
+            </div>
+          </div>
+        {% endif %}
+
+        {% if post.blogs and post.blogs.size > 0 %}
+          <div class="archive__item-link-row">
+            <span class="archive__item-link-label">Blogs:</span>
+
+            <div class="archive__item-link-buttons">
+              {% for blog in post.blogs %}
+                <a href="{{ blog.url }}"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn--inverse archive__item-link-btn">
+                  {{ blog.title }}
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+      </div>
+
 
         {% if post.award %}
           <p class="archive__item-award">
