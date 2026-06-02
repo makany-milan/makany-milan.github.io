@@ -13,9 +13,14 @@ ceprurl: https://cepr.org/publications/dp21325
 rfberlinurl: https://www.rfberlin.com/network-paper/female-promotions-and-the-academic-pipeline-evidence-from-a-natural-experiment/
 citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment”. CEPR Discussion Paper No. 21325. https://cepr.org/publications/dp21325'
 izaurl: https://www.iza.org/publications/dp/18477/female-promotions-and-the-academic-pipeline-evidence-from-a-natural-experiment
+blogs:
+  - title: "VoxEU"
+    url: "https://cepr.org/voxeu/columns/what-we-lose-when-women-do-not-get-tenure-evidence-natural-experiment"
+  - title: "Nadaesgratis (in Spanish)"
+    url: "https://nadaesgratis.es/admin/el-azar-que-cambia-vidas-el-coste-de-no-promocionar-a-las-mujeres-en-la-universidad"
 talks:
   - year: 2026
-    venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society; 4th Diversity and Human Capital Workshop, University of Exeter"
+    venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society; KTI-KRTK; 4th Diversity and Human Capital Workshop, University of Exeter"
   - year: 2025
     venue: "PhD Seminar, Erasmus School of Economics; PhD Seminar, Tinbergen Institute"
 ---
