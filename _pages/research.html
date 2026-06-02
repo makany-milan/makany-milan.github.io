@@ -30,16 +30,18 @@ author_profile: true
         <p class="archive__item-meta">
           {% if post.date %}
             {% if post.category == 'preprint' %}
-              <span class="archive__item-date">Most recent draft: {{ post.date | date: "%B %Y" }}</span>
+              <span class="archive__item-date">Most recent draft: <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary" style="margin-left: 10px;">{{ post.date | date: "%B %Y" }}</a></span>
             {% elsif post.category == 'progress' %}
               <span class="archive__item-date">Expected: {{ post.date | date: "%Y" }}</span>
             {% elsif post.category == 'published' %}
               <span class="archive__item-date">{{ post.date | date: "%Y" }}</span>
             {% endif %}
           {% endif %}
-
-          {% if post.paperurl %}
-            <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary" style="margin-left: 10px;">PDF</a>
+        </p>
+        
+        <p class="archive__item-meta">
+          {% if post.ceprurl or post.izaurl or post.rfberlinurl %}
+            <strong>Discussion Papers:</strong>
           {% endif %}
 
           {% if post.ceprurl %}
@@ -57,7 +59,7 @@ author_profile: true
 
         {% if post.blogs and post.blogs.size > 0 %} 
           <p class="archive__item-blogs"> 
-            <strong>Blogs:</strong> {% for blog in post.blogs %} <a href="{{ blog.url }}" target="_blank" rel="noopener noreferrer" class="btn btn--inverse">{{ blog.title }}</a> {% endfor %} 
+            <strong>Blogs:</strong> {% for blog in post.blogs %} <a href="{{ blog.url }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">{{ blog.title }}</a> {% endfor %} 
           </p> 
         {% endif %}
 
