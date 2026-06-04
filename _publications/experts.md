@@ -13,7 +13,7 @@ citation: 'Makany, M., and N. Zinovyeva (2026): “Top Researchers on Scientific
 award: "Paul David Best Junior Paper Award, Workshop on the Organisation, Economics and Policy of Scientific Research (2026)"
 talks:
   - year: 2026
-    venue: "Workshop on the Organisation, Economics and Policy of Scientific Research, Politecnico di Milano"
+    venue: "Workshop on the Organisation, Economics and Policy of Scientific Research, Politecnico di Milano; NBER Summer Institute, Science of Science Funding*"
   - year: 2025
     venue: "UK Department for Education; PhD Seminar, Erasmus School of Economics; Brown Bag Seminar, Erasmus School of Economics"
 ---
