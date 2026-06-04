@@ -18,6 +18,9 @@ blogs:
     url: "https://cepr.org/voxeu/columns/what-we-lose-when-women-do-not-get-tenure-evidence-natural-experiment"
   - title: "Nadaesgratis (in Spanish)"
     url: "https://nadaesgratis.es/admin/el-azar-que-cambia-vidas-el-coste-de-no-promocionar-a-las-mujeres-en-la-universidad"
+news:
+  - title: "Het Financieele Dagblad (in Dutch)"
+    url: "https://fd.nl/opinie/1598177/universiteiten-verspillen-kostbaar-rendement"
 talks:
   - year: 2026
     venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society; KTI-KRTK; 4th Diversity and Human Capital Workshop, University of Exeter"

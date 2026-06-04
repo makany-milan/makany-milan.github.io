@@ -109,6 +109,23 @@ author_profile: true
             </div>
           </div>
         {% endif %}
+
+        {% if post.news and post.news.size > 0 %}
+          <div class="archive__item-link-row">
+            <span class="archive__item-link-label">In the news:</span>
+
+            <div class="archive__item-link-buttons">
+              {% for new in post.news %}
+                <a href="{{ new.url }}"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  {{ new.title }}
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+
       </div>
 
 
