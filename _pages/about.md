@@ -16,6 +16,5 @@ I serve as the tutorial coordinator for the MSc course in Applied Econometrics a
 My advisors are Anne Boring and Josse Delfgaauw.
 
 ## Upcoming Presentations
-- June 2026: 4th Diversity and Human Capital Workshop, University of Exeter
 - July 2026: NBER Summer Institute, Science of Science Funding
-- August 2026: European Association of Labour Economists Conference, Barcelona
+- August 2026: KTI-KRTK Nyári Műhely, Budapest; European Association of Labour Economists Conference, Barcelona

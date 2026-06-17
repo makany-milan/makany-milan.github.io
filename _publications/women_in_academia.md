@@ -23,7 +23,7 @@ news:
     url: "https://fd.nl/opinie/1598177/universiteiten-verspillen-kostbaar-rendement"
 talks:
   - year: 2026
-    venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society; KTI-KRTK; 4th Diversity and Human Capital Workshop, University of Exeter*; European Association of Labour Economists Conference, Barcelona*"
+    venue: "Research on Monday, Erasmus School of Economics; Tinbergen Institute Opening Conference: Science for Society; KTI-KRTK; 4th Diversity and Human Capital Workshop, University of Exeter; KTI-KRTK Nyári Műhely; European Association of Labour Economists Conference, Barcelona*"
   - year: 2025
     venue: "PhD Seminar, Erasmus School of Economics; PhD Seminar, Tinbergen Institute"
 ---
