@@ -9,6 +9,7 @@ date: 2026-07-15
 venue: 
 slidesurl: 
 paperurl: https://makany-milan.github.io/files/Top_Researchers_on_Committees.pdf
+izaurl: https://www.iza.org/publications/dp/18815/top-researchers-on-scientific-committees-decision-quality-peer-effects-and-opportunity-costs
 cageurl: https://warwick.ac.uk/fac/soc/economics/research/centres/cage/publications/workingpapers/2026/top_researchers_on_scientific_committees_decision_quality_peer_effects_and_opportunity_costs/
 citation: 'Makany, M., and N. Zinovyeva (2026): “Top Researchers on Scientific Committees: Decision Outcomes, Peer Dynamics, and Opportunity Costs”. https://milan-makany.com/files/Top_Researchers_on_Committees.pdf'
 award: "Paul David Best Junior Paper Award, Workshop on the Organisation, Economics and Policy of Scientific Research (2026)"
