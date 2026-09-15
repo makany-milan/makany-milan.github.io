@@ -76,6 +76,10 @@ body {
   color: #34494d;
 }
 
+@media (min-width: 925px) {
+  .page, .archive { padding-left: 3.5rem; }
+}
+
 .author__avatar img {
   border-radius: 6px;
   max-width: 170px;
@@ -124,6 +128,8 @@ body {
 .page__footer {
   background: #f5f7f5;
   border-top: 1px solid #dce3e3;
+
+  footer { margin-top: 1rem; padding-bottom: 1rem; }
 }
 
 a:focus-visible, button:focus-visible {
