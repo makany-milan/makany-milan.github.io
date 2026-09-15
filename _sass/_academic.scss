@@ -175,13 +175,17 @@ body {
   }
 
   .archive__item-link-btn {
-    background: transparent;
-    border: 1px solid #9bb9bb;
-    color: #17606a;
+    background-color: #174b54;
+    border: 1px solid #174b54 !important;
+    color: #fff !important;
     font-weight: 600;
     text-decoration: none;
 
-    &:hover, &:focus { background: #e9f0ef; color: #174b54; }
+    &:hover, &:focus {
+      background-color: #103b43;
+      border-color: #103b43 !important;
+      color: #fff !important;
+    }
   }
 
   .archive__item-award {
