@@ -77,7 +77,14 @@ body {
 }
 
 @media (min-width: 925px) {
-  .page, .archive { padding-left: 3.5rem; }
+  .page { padding-left: 3.5rem; }
+  .archive {
+    float: none;
+    width: 72%;
+    margin-left: 24%;
+    margin-right: 0;
+    padding-left: 0;
+  }
 }
 
 .author__avatar img {
@@ -159,6 +166,73 @@ body {
     letter-spacing: 0.09em;
     text-transform: uppercase;
   }
+
+  .archive__item-link-label {
+    flex-basis: 9rem;
+    color: #526269;
+    font-size: 0.86rem;
+    font-weight: 500;
+  }
+
+  .archive__item-link-btn {
+    background: transparent;
+    border: 1px solid #9bb9bb;
+    color: #17606a;
+    font-weight: 600;
+    text-decoration: none;
+
+    &:hover, &:focus { background: #e9f0ef; color: #174b54; }
+  }
+
+  .archive__item-award {
+    color: #526269;
+    font-size: 0.9rem;
+    line-height: 1.5;
+  }
+
+  .archive__item-presentations {
+    margin-top: 1rem;
+    border-top: 1px solid #e6ebea;
+    padding-top: 0.75rem;
+
+    summary { color: #17606a; cursor: pointer; font-size: 0.88rem; }
+    ul { margin-top: 0.65rem; color: #526269; font-size: 0.88rem; }
+  }
+}
+
+.archive--cv, .archive--teaching {
+  > h2 {
+    margin: 0 0 0.75rem;
+    color: #173e46;
+    font-size: 1.35rem;
+    font-weight: 400;
+  }
+
+  > h2:not(:first-of-type) { margin-top: 2.3rem; }
+}
+
+.archive--cv {
+  .cv__download {
+    background: #174b54;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 0.9rem;
+    text-decoration: none;
+  }
+
+  > h3 {
+    margin: 1.25rem 0 0.4rem;
+    color: #34494d;
+    font-family: $sans-serif;
+    font-size: 0.95rem;
+  }
+
+  li { margin-bottom: 0.3rem; }
+}
+
+.archive--teaching {
+  .teaching__roles { padding-left: 1.25rem; }
+  .teaching__roles li { margin-bottom: 0.7rem; }
 }
 
 .visually-hidden {

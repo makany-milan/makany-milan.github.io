@@ -43,11 +43,7 @@ A 1:1 meeting is useful when you have:
 For very small questions, it is usually better to start with a short message on TMS.
 
 ### My availability
-- **Wednesday 13:30–15:00**
-- **Friday 13:00–14:30**
-
-From **March to May**, meetings are mostly in person.  
-From **June onward**, availability is more limited and some meetings may be online.
+Meeting slots and formats are shown in the booking link below. Please check it for current availability.
 
 ### How to book a meeting
 1. Book a **15-minute or 30-minute slot** using the booking link below

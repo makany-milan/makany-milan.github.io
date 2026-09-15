@@ -34,17 +34,15 @@ research_style: true
         {% if post.date %}
           {% if post.category == 'preprint' %}
             <div class="archive__item-link-row">
-              <span class="archive__item-link-label">Most recent draft:</span>
-
               {% if post.paperurl %}
                 <a href="{{ post.paperurl }}"
                   target="_blank"
                   rel="noopener noreferrer"
                   class="btn btn--primary archive__item-link-btn">
-                  {{ post.date | date: "%B %Y" }}
+                  Download paper ({{ post.date | date: "%B %Y" }})
                 </a>
               {% else %}
-                <span>{{ post.date | date: "%B %Y" }}</span>
+                <span class="archive__item-link-label">Latest draft: {{ post.date | date: "%B %Y" }}</span>
               {% endif %}
             </div>
           {% elsif post.category == 'progress' %}
@@ -141,12 +139,13 @@ research_style: true
 
         {% if post.award %}
           <p class="archive__item-award">
-            <strong>{{ post.award }}</strong>
+            Award: {{ post.award }}
           </p>
         {% endif %}
 
         
-        {% if post.excerpt %}
+        {% assign abstract_text = post.excerpt | strip_html | strip %}
+        {% if abstract_text != '' %}
           <div class="archive__item-abstract">
             <div class="archive__item-abstract-label">Abstract</div>
             {{ post.excerpt | markdownify }}
@@ -154,15 +153,15 @@ research_style: true
         {% endif %}
 
       {% if post.talks and post.talks.size > 0 %}
-        <p class="archive__item-presentations">
-          <strong>Presentations:</strong>
-        </p>
-        <ul class="archive__item-presentations-list">
+        <details class="archive__item-presentations">
+          <summary>Presentations</summary>
+          <ul class="archive__item-presentations-list">
           {% assign talks_by_year = post.talks | sort: "year" | reverse %}
           {% for talk in talks_by_year %}
             <li>{{ talk.year }} — {{ talk.venue }}</li>
           {% endfor %}
-        </ul>
+          </ul>
+        </details>
       {% endif %}
 
 
@@ -183,7 +182,8 @@ research_style: true
         <p>{{ post.date | date: "%Y" }}</p>
       {% endif %}
 
-      {% if post.excerpt %}
+      {% assign abstract_text = post.excerpt | strip_html | strip %}
+      {% if abstract_text != '' %}
         <div class="archive__item-abstract">
           <div class="archive__item-abstract-label">Abstract</div>
           {{ post.excerpt | markdownify }}
@@ -192,7 +192,7 @@ research_style: true
 
       <p>
         {% if post.paperurl %}
-          <a href="{{ post.paperurl }}" class="btn btn--primary">PDF</a>
+          <a href="{{ post.paperurl }}" class="btn btn--primary">Download paper</a>
         {% endif %}
 
         {% if post.slidesurl %}

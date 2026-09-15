@@ -15,7 +15,7 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive{% if page.research_style %} archive--research{% endif %}">
+  <div class="archive{% if page.research_style %} archive--research{% endif %}{% if page.archive_style %} archive--{{ page.archive_style }}{% endif %}">
     {% if page.hide_title %}
       <h1 class="visually-hidden">{{ page.title }}</h1>
     {% else %}
