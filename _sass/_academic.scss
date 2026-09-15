@@ -1,0 +1,145 @@
+/* A quiet editorial treatment for the academic profile. */
+body {
+  background: #fcfcfa;
+  line-height: 1.7;
+}
+
+.masthead {
+  background: #fcfcfa;
+  border-bottom: 1px solid #dce3e3;
+  box-shadow: 0 2px 12px rgba(25, 51, 56, 0.035);
+}
+
+.masthead__inner-wrap {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.greedy-nav {
+  background: transparent;
+
+  a {
+    color: #34494d;
+    font-size: 0.9rem;
+    letter-spacing: 0.015em;
+  }
+
+  a:hover, a:focus {
+    color: #17606a;
+  }
+}
+
+.masthead__menu-item--lg a {
+  color: #173e46;
+  font-family: Georgia, Times, serif;
+  font-size: 1.25rem;
+  letter-spacing: -0.02em;
+}
+
+#main {
+  margin-top: 3.25rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.page__title, .archive > h1 {
+  color: #173e46;
+  font-size: clamp(2rem, 3vw, 2.8rem);
+  font-weight: 400;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+}
+
+.page__content, .archive {
+  max-width: 760px;
+}
+
+.page__content {
+  font-size: 1.035rem;
+
+  h2 {
+    margin-top: 2.6rem;
+    padding-bottom: 0.5rem;
+    color: #173e46;
+    font-size: 1.55rem;
+    font-weight: 400;
+    border-bottom: 1px solid #dce3e3;
+  }
+
+  a {
+    text-decoration-color: #a1bdbe;
+    text-underline-offset: 0.18em;
+  }
+}
+
+.sidebar {
+  color: #34494d;
+}
+
+.author__avatar img {
+  border-radius: 6px;
+  max-width: 170px;
+}
+
+.sidebar .author__name {
+  color: #173e46;
+  font-family: Georgia, Times, serif;
+  font-size: 1.35rem;
+  font-weight: 400;
+  line-height: 1.2;
+}
+
+.sidebar .author__bio {
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+.sidebar .author__urls li,
+.sidebar .author__urls a {
+  font-size: 0.82rem;
+  line-height: 1.65;
+}
+
+.archive__item-title {
+  color: #173e46;
+  font-family: Georgia, Times, serif;
+  font-weight: 400;
+}
+
+.list__item {
+  padding-bottom: 1.1rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #e6ebea;
+}
+
+.archive__item-abstract {
+  text-align: left;
+  line-height: 1.6;
+}
+
+.archive__item-link-btn {
+  border-radius: 3px;
+}
+
+.page__footer {
+  background: #f5f7f5;
+  border-top: 1px solid #dce3e3;
+}
+
+a:focus-visible, button:focus-visible {
+  outline: 2px solid #17606a;
+  outline-offset: 3px;
+}
+
+@media (max-width: 924px) {
+  #main { margin-top: 2.25rem; }
+  .sidebar { margin-bottom: 2rem; }
+  .author__avatar img { max-width: 72px; }
+}
+
+@media (max-width: 600px) {
+  #main { padding-left: 1.15rem; padding-right: 1.15rem; }
+  .masthead__inner-wrap { padding-left: 1rem; padding-right: 1rem; }
+  .page__title, .archive > h1 { font-size: 2rem; }
+  .page__content { font-size: 1rem; }
+}
