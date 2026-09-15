@@ -3,6 +3,8 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+hide_title: true
+research_style: true
 ---
 
 {% include base_path %}
@@ -16,7 +18,7 @@ author_profile: true
       {% endif %}
 
       {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2>
         {% assign title_shown = true %}
       {% endunless %}
 
@@ -145,7 +147,10 @@ author_profile: true
 
         
         {% if post.excerpt %}
-          <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+          <div class="archive__item-abstract">
+            <div class="archive__item-abstract-label">Abstract</div>
+            {{ post.excerpt | markdownify }}
+          </div>
         {% endif %}
 
       {% if post.talks and post.talks.size > 0 %}
@@ -179,7 +184,10 @@ author_profile: true
       {% endif %}
 
       {% if post.excerpt %}
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+        <div class="archive__item-abstract">
+          <div class="archive__item-abstract-label">Abstract</div>
+          {{ post.excerpt | markdownify }}
+        </div>
       {% endif %}
 
       <p>
