@@ -5,10 +5,10 @@ category: preprint
 permalink: /research/bagues_etal_women_in_academia
 collaborators: 'Manuel Bagues, Giulia Vattuone, Natalia Zinovyeva'
 excerpt: 'We study how promotion decisions shape female scientists careers'' and the academic pipeline, using data from 4,000 Spanish university departments. In Spain''s centralized habilitación system, national qualification committees effectively controlled access to senior academic ranks during 2002--2008. We identify exogenous variation in promotions using the random assignment of evaluators to these committees: applicants evaluated by a coauthor or colleague were more likely to qualify and be promoted. We document two main findings. First, failing at this career gate has more persistent consequences for women: female Associate Professor candidates who narrowly miss qualification  are 57 percentage points less likely to be promoted fifteen years later, compared with 29 for men. Second, when women qualify, the effects extend beyond their own careers: their departments subsequently promote more women, graduate more female PhD students, and produce more female PhD graduates who remain active in research and advance in academia.'
-date: 2026-03-16
+date: 2026-09-22
 venue: 
 slidesurl: 
-paperurl: https://makany-milan.github.io/files/Women_in_Academia_16_3_2026.pdf
+paperurl: https://makany-milan.github.io/files/Women_in_Academia_22_9_2026.pdf
 ceprurl: https://cepr.org/publications/dp21325
 rfberlinurl: https://www.rfberlin.com/network-paper/female-promotions-and-the-academic-pipeline-evidence-from-a-natural-experiment/
 citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment”. CEPR Discussion Paper No. 21325. https://cepr.org/publications/dp21325'
