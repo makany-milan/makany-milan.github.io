@@ -8,7 +8,7 @@ excerpt: 'We study how promotion decisions shape female scientists careers'' and
 date: 2026-09-22
 venue: 
 slidesurl: 
-paperurl: https://makany-milan.github.io/files/Women_in_Academia_22_9_2026.pdf
+paperurl: https://makany-milan.github.io/files/Women_in_Academia.pdf
 ceprurl: https://cepr.org/publications/dp21325
 rfberlinurl: https://www.rfberlin.com/network-paper/female-promotions-and-the-academic-pipeline-evidence-from-a-natural-experiment/
 citation: 'Bagues, M., M. Makany, G. Vattuone, and N. Zinovyeva (2026): “Female Promotions and the Academic Pipeline: Evidence from a Natural Experiment”. CEPR Discussion Paper No. 21325. https://cepr.org/publications/dp21325'
