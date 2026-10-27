@@ -23,6 +23,9 @@ Paul David Best Junior Paper Award, Workshop on the Organisation, Economics and 
 
 ## Presentations
 
+### 2027
+- OZSW Winter School, Rotterdam\*
+
 ### 2026
 
 - Research on Monday Seminar, Erasmus School of Economics
@@ -36,7 +39,6 @@ Paul David Best Junior Paper Award, Workshop on the Organisation, Economics and 
 - Talent Economics Conference 2026, Rome
 - Nederlandse Economendag, The Hague
 - IDEA Center, Erasmus University Rotterdam\*
-- OZSW Winter School, Rotterdam\*
 
 ### 2025
 
