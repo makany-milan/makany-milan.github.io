@@ -13,9 +13,6 @@ I serve as the tutorial coordinator for the MSc course in Applied Econometrics a
 
 My advisors are Anne Boring and Josse Delfgaauw.
 
-## Upcoming Presentations
-- July 2026: NBER Summer Institute, Science of Science Funding
-- August 2026: KTI-KRTK Nyári Műhely, Budapest; European Association of Labour Economists Conference, Barcelona
-- October 2026: Talent Economics Conference 2026, Rome; Nederlandse Economendag, The Hague
+## News and Upcoming Presentations
 - November 2026: IDEA Center, Erasmus University Rotterdam
 - March 2027: OZSW Winter School, Rotterdam

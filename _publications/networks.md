@@ -11,9 +11,9 @@ slidesurl:
 paperurl:
 citation: #'Makany M. (2025): “Connections in Academia: Can Networking Opportunities Help Women?”'
 talks:
-  - year: 2024
-    venue: "Network Economics Day, Tinbergen Institute"
   - year: 2025
     venue: "Vrije Universiteit Amsterdam; Workshop on the Organisation, Economics and Policy of Scientific Research, University of Strasbourg; 10th Summer School on Data and Algorithms for ST&I Studies, KU Leuven; PhD Seminar, Erasmus School of Economics"
+  - year: 2024
+    venue: "Network Economics Day, Tinbergen Institute"
 ---
 

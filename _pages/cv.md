@@ -30,9 +30,13 @@ Paul David Best Junior Paper Award, Workshop on the Organisation, Economics and 
 - Tinbergen Institute Opening Conference: Science for Society
 - KTI-KRTK
 - 4th Diversity and Human Capital Workshop, University of Exeter
-- KTI-KRTK Nyári Műhely\*
-- NBER Summer Institute, Science of Science Funding\*
-- European Association of Labour Economists Conference, Barcelona\*
+- KTI-KRTK Nyári Műhely
+- NBER Summer Institute, Science of Science Funding
+- European Association of Labour Economists Conference, Barcelona
+- Talent Economics Conference 2026, Rome
+- Nederlandse Economendag, The Hague
+- IDEA Center, Erasmus University Rotterdam\*
+- OZSW Winter School, Rotterdam\*
 
 ### 2025
 
