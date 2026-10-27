@@ -99,24 +99,23 @@
 
 @media (max-width: 600px) {
   .archive__item-link-row {
+    display: flex;
     flex-direction: column;
     align-items: flex-start;
     gap: 0.3rem;
   }
 
   .archive__item-link-label {
-    flex: 0 1 auto;
+    flex: none;
+    width: auto;
   }
 
   .archive__item-link-buttons {
-    width: 100%;
-    max-width: 100%;
-  }
-
-  .archive__item-link-buttons a {
-    max-width: 100%;
-    overflow-wrap: anywhere;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
   }
 }
+
 
 
