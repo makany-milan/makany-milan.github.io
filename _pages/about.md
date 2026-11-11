@@ -15,4 +15,5 @@ My advisors are Anne Boring and Josse Delfgaauw.
 
 ## News and Upcoming Presentations
 - November 2026: IDEA Center, Erasmus University Rotterdam
+- December 2026: Hungarian Society of Economics-CEU, Budapest
 - March 2027: OZSW Winter School, Rotterdam
